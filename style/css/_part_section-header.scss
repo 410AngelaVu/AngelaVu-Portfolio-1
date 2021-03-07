@@ -1,0 +1,104 @@
+/*------------------------------------*\
+    .section-header
+\*------------------------------------*/
+
+
+		.section-header {
+		}
+
+			.section-header__title--realizations {
+				color: #550D0E;
+				font-size: 38px;
+				font-weight: 600;
+				padding-left: 60px;
+				padding-bottom: 5px;
+				border-bottom: 2px solid #A13842;
+				background-image: url("../img/title_square.svg");
+				background-size: 40px 40px;
+				background-position: 10px top;
+				opacity: 1;
+				&--experience { background-image: url("../img/title_square.svg"); }
+				&--features { background-image: url("../img/title_circle.svg"); }
+				&--realizations { background-image: url("../img/title_pentagon.svg"); }
+				&--contact { background-image: url("../img/title_triangle.svg"); }
+			}
+
+
+			.section-header__subtitle--realizations {
+				color: #A13842;
+				font-size: 22px;
+				font-weight: 200;
+				padding-top: 5px;
+				padding-left: 100px;
+			}
+
+			.section-header__title {
+				color: #550D0E;
+				font-size: 38px;
+				font-weight: 600;
+				padding-left: 60px;
+				padding-bottom: 5px;
+				border-bottom: 2px solid #A13842;
+				background-image: url("../img/title_square.svg");
+				background-size: 40px 40px;
+				background-position: 10px top;
+				opacity: 1;
+				&--experience { background-image: url("../img/title_square.svg"); }
+				&--features { background-image: url("../img/title_circle.svg"); }
+				&--realizations { background-image: url("../img/title_pentagon.svg"); }
+				&--contact { background-image: url("../img/title_triangle.svg"); }
+			}
+
+			.section-header__title--contact {
+				color: white !important;
+				font-size: 38px;
+				font-weight: 600;
+				padding-left: 60px;
+				padding-bottom: 5px;
+				border-bottom: 2px solid #A13842;
+				background-image: url("../img/title_square.svg");
+				background-size: 40px 40px;
+				background-position: 10px top;
+				opacity: 1;
+				background-image: url("../img/title_triangle.svg"); 
+			}
+
+			.section-header__subtitle--contact {
+				color: white;
+				font-size: 22px;
+				font-weight: 200;
+				padding-top: 5px;
+				padding-left: 100px;
+			}
+
+
+			.section-header__subtitle {
+				color: #A13842;
+				font-size: 22px;
+				font-weight: 200;
+				padding-top: 5px;
+				padding-left: 100px;
+			}
+
+			.section-header__subtitle--experience {
+  				color: #FFFFFF !important;
+  				font-size: 22px;
+				font-weight: 200;
+				padding-top: 5px;
+				padding-left: 100px;
+			}
+
+			.section-header__subtitle--feature {
+				color: #550D0E !important;
+				font-size: 22px;
+				font-weight: 200;
+				padding-top: 5px;
+				padding-left: 100px;
+			}
+
+
+
+
+
+
+
